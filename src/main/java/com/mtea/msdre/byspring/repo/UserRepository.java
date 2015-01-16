@@ -6,7 +6,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 import com.mtea.msdre.byspring.model.User;
 
 /**
- * String -> User Json 
+ * String -> User Json 卧槽 你是原作者么？
  * @author macrotea@qq.com
  * @date 2013-3-26 下午8:46:21
  * @version 1.0
